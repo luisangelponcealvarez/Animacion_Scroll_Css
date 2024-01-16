@@ -1,7 +1,7 @@
-# Animacion_Scroll_Css
+# Animation_Scroll_Css
 
-Este proyecto lo hice para practicar una animacion de scroll en css el proyecto se con forma de 2 archivos 1 es el html y el otro es el css para la practica de scroll en css
+I made this project to practice a scroll animation in css the project is made up of 2 files 1 is the html and the other is the css for the css scroll practice
 
-## Miniatura
+## Thumbnail
 
-![miniatura](./miniatura.png)
+![thumbnail](./thumbnail.png)
